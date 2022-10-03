@@ -1,0 +1,6 @@
+name: Invisibleitemframe
+version: '${version}'
+main: com.babiesjulius.invisibleitemframe.Main
+api-version: 1.19
+authors: [ JuliusBabies ]
+description: This plugin adds craftable invisible item frames to the game.
